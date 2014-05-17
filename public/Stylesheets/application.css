@@ -1,6 +1,34 @@
-nav {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 13px;
-font-weight: 500;
-color: #66757f;
+.box {
+	flex: 3;
+	justify-content: center;
+	align-items: baseline;
+
+}
+
+.navigation {
+	align-items: baseline;
+}
+
+.navigation>ul>il {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	color: #66757f;
+}
+
+.search {
+	align-self: flex-start ;
+	flex: 1;
+	align-items: center;
+}
+
+.actions {
+	align-self: flex-start ;
+	flex: 1;
+	align-items: center
+}
+
+.topbar {
+	display: flex;
+	height: 50px; 
 }
