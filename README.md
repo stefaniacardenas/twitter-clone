@@ -12,13 +12,13 @@ Reimplement the Twitter.com feed page as close as possible to the real look and 
 
 The goal of this exercise is to test your front-end skills. You are expected to produce only HTML, CSS and JS files.Do not build a Sinatra application.
 
-Goal 1. Make sure it looks good on the desktop. As a minimum you should have the header and the list of tweets.
+* Goal 1. Make sure it looks good on the desktop. As a minimum you should have the header and the list of tweets.
 
-Goal 2. Add JavaScript for infinite scrolling (using dummy data, no server-side at all), expanding the tweet input box on focus and, if you're feeling adventurous, a popup to add a new tweet.
+* Goal 2. Add JavaScript for infinite scrolling (using dummy data, no server-side at all), expanding the tweet input box on focus and, if you're feeling adventurous, a popup to add a new tweet.
 
 Don't forget the infinite scrolling adds a spinner to show that data is being loaded. Even though you'll be using dummy data, emulate the delay.
 
-Goal 3. Make it responsive. 
+* Goal 3. Make it responsive. 
 
 Technologies used
 -----------
